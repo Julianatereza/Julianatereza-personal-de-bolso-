@@ -1,0 +1,6 @@
+{
+  "name": "Personal de Bolso",
+  "description": "Aplicativo mobile premium de treinos personalizados com inteligência artificial adaptativa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
